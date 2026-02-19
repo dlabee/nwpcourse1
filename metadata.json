@@ -1,0 +1,18 @@
+{
+  "badge": {
+    "id": "10b6c9eb-1c84-432b-81bf-3ab9585f727b",
+    "imagePath": "assets/1cd01a089c43a5699491b1df7517f53f.png",
+    "imageUrl": "https://s3.amazonaws.com/com.appolearning.files/production/uploads/badge/10b6c9eb-1c84-432b-81bf-3ab9585f727b/SMLC-Secondary-Ranking-Evidence.png",
+    "name": "Ranking Evidence | SMLC Secondary Lesson Study",
+    "reviewType": "formative"
+  },
+  "communityId": "c318efcc-db49-48b8-8e84-f4e7cd2d9a9f",
+  "communityName": "Teaching Argument Writing",
+  "courseId": "5ae39737-ce65-410c-ac89-49035b99663d",
+  "description": "The second lesson study in the secondary strand of the SMLC Source-Based Argument Yearlong Course",
+  "extractedAt": "2026-02-09T17:02:00.401Z",
+  "logoPath": "assets/4239e3d37cce789beadd048f53765922.png",
+  "status": "hidden",
+  "title": "Ranking Evidence | Secondary SMLC Lesson Study",
+  "totalChapters": 8
+}
